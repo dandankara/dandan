@@ -1,8 +1,12 @@
+### Public Information
+My name is Daniel Cunha, i currently live in Minas Gerais, Brazil and i am a developer Frontend;
+
+In my free time i study, and collaborate in projects open source to learn and evolve in the area;
+
+I do some volunteer projects for ONG's in Brazil, the most recent one is called "Laundry Project", it's for people who live on the streets, basically it's a form to have a database to help them
+
 ### Contacts
-<div>
-<a target="_blank" href="cunhacb22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " /></a>
-<a target="_blank" href="cunhacb22@gmail.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cunha001//)
 
 <hr/>
 
