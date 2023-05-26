@@ -21,10 +21,6 @@ I do some volunteer projects for ONG's in Brazil, the most recent one is called 
 <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 </div>
 
-
-<hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandankara&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dandankara&layout=compact&langs_count=7&theme=calm"/>
 
